@@ -38,15 +38,6 @@ h2 {
     color: blue;    
 }
 
-#fb_logo {
-    height: 5%;
-    width: 5%;
-    padding-top: 5px;
-    padding-bottom: 0px;
-    margin-bottom: -5px;
-    margin-left: 10px;
-}
-
 #img_profile {
 
     padding: 0px 0px 5px 5px
@@ -67,4 +58,13 @@ h2 {
 
 .caps {
     color: #007065;
+}
+
+.logo {
+    height: 3%;
+    width: 3%;
+    padding-top: 5px;
+    padding-bottom: 0px;
+    margin-bottom: -5px;
+    margin-left: 10px;
 }
