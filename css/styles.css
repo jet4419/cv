@@ -16,6 +16,23 @@ hr {
     width: 70px;
 }
 
+h1 {
+    color: #00818a;
+}
+
+h2 {
+    margin-left: 10px;
+    color: #00818a;
+}
+
+#capstone_project {
+    margin-left: 25px;
+}
+
+#experience {
+    margin-left: 25px;
+}
+
 #email {
     text-decoration: underline;
     color: blue;    
@@ -42,4 +59,12 @@ hr {
 
 #number {
     margin-bottom: 0px;
+}
+
+#skills {
+    margin-left: 20px;
+}
+
+.caps {
+    color: #007065;
 }
