@@ -1,0 +1,45 @@
+body {
+    background-color: #eaf6f6;
+}
+
+hr {
+    /* background-color: gray; */
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 10px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    /* margin-bottom: 0px;
+    padding-bottom: 0px; */
+    height: 1%;
+    width: 70px;
+}
+
+#email {
+    text-decoration: underline;
+    color: blue;    
+}
+
+#fb_logo {
+    height: 5%;
+    width: 5%;
+    padding-top: 5px;
+    padding-bottom: 0px;
+    margin-bottom: -5px;
+    margin-left: 10px;
+}
+
+#img_profile {
+
+    padding: 0px 0px 5px 5px
+}
+
+#follow {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#number {
+    margin-bottom: 0px;
+}
