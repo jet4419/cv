@@ -21,16 +21,20 @@ h1 {
 }
 
 h2 {
-    margin-left: 10px;
+    margin-left: 20px;
     color: #00818a;
 }
 
 #capstone_project {
-    margin-left: 25px;
+    margin-left: 35px;
+}
+
+#details {
+    padding-left: 20px;
 }
 
 #experience {
-    margin-left: 25px;
+    margin-left: 35px;
 }
 
 #email {
@@ -40,7 +44,7 @@ h2 {
 
 #img_profile {
 
-    padding: 0px 0px 5px 5px
+    padding: 0px 0px 5px 5px;
 }
 
 #follow {
@@ -53,11 +57,17 @@ h2 {
 }
 
 #skills {
-    margin-left: 20px;
+    margin-left: 30px;
 }
 
 .caps {
     color: #007065;
+}
+
+.circular {
+    border-radius: 100%;
+    margin-top: -30px;
+    margin-bottom: 0px;
 }
 
 .logo {
